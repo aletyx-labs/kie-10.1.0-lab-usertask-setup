@@ -193,7 +193,7 @@
     <profile>
       <id>production</id>
       <properties>
-        <quarkus.profile>dev</quarkus.profile>
+        <quarkus.profile>prod</quarkus.profile>
       </properties>
       <activation>
         <activeByDefault>true</activeByDefault>
